@@ -1,0 +1,16 @@
+# build outputs
+*.exe
+*.o
+fractal
+test_part*
+
+# large or generated files
+*.ppm
+*.tmp
+benchmark_results.csv
+
+# editor / OS noise
+.vscode/
+.vs/
+.DS_Store
+Thumbs.db
